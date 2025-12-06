@@ -1,3 +1,5 @@
 .n1,
-.n3
-color/* Add CSS Styling */
+.n3{
+background-color: #FF7276;
+font: verdana, dejavu-sans, sans-serif
+}
