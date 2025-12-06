@@ -1,11 +1,10 @@
-.n1,
-.n3,
-.n5{
+.odd{
 background-color: #FF7276;
 font: verdana, dejavu-sans, sans-serif
 }
 
-.n3{
+.odd.three
+{
     font-size:24px;
 }
 #n2 {
