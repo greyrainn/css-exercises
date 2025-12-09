@@ -1,7 +1,13 @@
 .button{ font-size: 28px;
-font: 'Helvetica' 'times new roman' 'sans serif';}
+font: 'Helvetica' 'times new roman' 'sans serif';
+ }
+
+
 
 .button.one{
     color: #f8f8ff;
     background-color: #000000;
+}
+.button.two{
+    background-color: #ff0 ;
 }
